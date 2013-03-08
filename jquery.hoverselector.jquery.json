@@ -1,0 +1,27 @@
+{
+    "name": "jquery.hoverselector",
+    "title": "jquery.hoverselector",
+    "description": "Adds support for the pseudo :hover selector to jQuery in browsers that support the matchesSelector function ( prefixed or not ).",
+    "keywords": [
+        "selector",
+        "jquery",
+        "sizzle"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Daniel Herman"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/dcherman/jquery.hoverselector/issues",
+    "homepage": "https://github.com/dcherman/jquery.hoverselector",
+    "docs": "https://github.com/dcherman/jquery.hoverselector",
+    "download": "https://github.com/dcherman/jquery.hoverselector",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
